@@ -5,9 +5,12 @@
 
 The repository features all the labs and projects completed during the Deep Learning Course by Andrew NG in Coursera. The projects involve building complete neural networks with one or more hidden layers from scratch using vectorization and various mathematical functions. The projects deeply focused on training dataset by initializing parameters, feedforward propagation, computing loss, backward propagation, and evaluation. 
 
-Libraries used: Numpy, Matplotlib, SciPy, Sklearn, PIL, 
+Libraries used: Numpy, Matplotlib, SciPy, Sklearn, PIL,
+
+<br>
 
 ## Notebooks:
+
 
 ### Lab 0: Python Basics with Numpy
 
@@ -32,6 +35,7 @@ In this lab, I used different functions for building deep neural network with mu
 
 In this lab, I built a deep neural network with multiple hidden layers from end to end and applied it to image classification of cat and non-cat picture. In the end, the neural network was successfully able to identify a cat picture. 
 
+<br>
 
 
 ## License
