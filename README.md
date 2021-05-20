@@ -1,5 +1,8 @@
 # Deep-Learning-Coursera
 
+<img width="808" alt="logo" src="https://user-images.githubusercontent.com/46661726/119045908-0d052b00-b98a-11eb-95e3-8a96c74afebe.png">
+
+
 The repository features all the labs and projects completed during the Deep Learning Course by Andrew NG in Coursera. The projects involve building complete neural networks with one or more hidden layers from scratch using vectorization and various mathematical functions. The projects deeply focused on training dataset by initializing parameters, feedforward propagation, computing loss, backward propagation, and evaluation. 
 
 Libraries used: Numpy, Matplotlib, SciPy, Sklearn, PIL, 
