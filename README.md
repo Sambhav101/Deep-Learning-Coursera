@@ -31,3 +31,9 @@ In this lab, I used different functions for building deep neural network with mu
 ### Lab 4: Deep Neural Network for Image Classification: Application
 
 In this lab, I built a deep neural network with multiple hidden layers from end to end and applied it to image classification of cat and non-cat picture. In the end, the neural network was successfully able to identify a cat picture. 
+
+
+
+## License
+
+<a href="https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome" targetr="blank">Deep Learning and Neural Networks, Coursera</a>
